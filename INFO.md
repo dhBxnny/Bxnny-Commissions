@@ -36,7 +36,8 @@ I can make a minor discount, but not big or making your bot for free.
 
 Please, note that nothing in this world is not perfect, therefore the VPS (Virtual Private Server) where I host the bots I create can have a downtime, and it is nothing I can fix, sadly.
 
+Looking on how to order? You may fill in this form [here](https://form.jotformeu.com/wwenoticias51/custom-bot-request) and you will be notified when I have checked up your form.
+
 ## Questions? Concerns?
 If you do have any questions or concerns, please do not hesitate to reach me out on Discord through the direct messages feature.
 
-Looking on how to order from me? Contact me on Discord and we will talk about how you wish your bot to be.
