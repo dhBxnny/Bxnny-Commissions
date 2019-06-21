@@ -8,4 +8,4 @@ You can check my personal website clicking [here](http://www.bxnny.orgfree.com)
 If you would like to make me a donation to support me, you may do so [here](https://www.paypal.me/hmbxnny)
 
 ## Prices & Extended Information
-Interested in checking out my pricing and extended information? [This link](https://github.com/dhBxnny/Bot-Programming-Information/blob/master/Info.md) is the correct for you then!
+Interested in checking out my pricing and extended information? [This link](https://github.com/dhBxnny/Bot-Programming-Information/blob/master/INFO.md) is the correct for you then!
