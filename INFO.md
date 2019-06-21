@@ -34,7 +34,7 @@ You will also not get your product as you have tried to get it for free.
 
 I can make a minor discount, but not big or making your bot for free.
 
-Please, note that nothing in this world is perfect, therefore the VPS (Virtual Private Server) where I host the bots I create can have a downtime, and it is nothing I can fix, sadly.
+Please, note that nothing in this world is not perfect, therefore the VPS (Virtual Private Server) where I host the bots I create can have a downtime, and it is nothing I can fix, sadly.
 
 ## Questions? Concerns?
 If you do have any questions or concerns, please do not hesitate to reach me out on Discord through the direct messages feature.
