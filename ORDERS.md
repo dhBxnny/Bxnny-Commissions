@@ -31,3 +31,24 @@ If you are interested in checking out my current orders list, you can see it her
   · Verification system.
   
   Total; 1.500 Robux.
+  
+~ **Octopuso's Assistant**
+
+  · Welcome messages.
+  
+  · Announce command.
+  
+  · Verification system.
+
+  · Suggest command. 
+  
+  · ModMail.
+  
+  · Reply command for the ModMail.
+  
+  · Group Shouts.
+  
+  · Whois & Groupinfo commands.
+  
+  Total; 2.500 Robux.
+
