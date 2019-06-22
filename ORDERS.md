@@ -21,3 +21,13 @@ If you are interested in checking out my current orders list, you can see it her
   · MessageLR, MessageMR & MessageHR commands.
   
   Total; 1.700 Robux.
+  
+~ **Sliced Bot**
+  
+  · Advanced ModMail through direct messages.
+  
+  · Announce command.
+  
+  · Verification system.
+  
+  Total; 1.500 Robux.
