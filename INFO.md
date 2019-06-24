@@ -10,7 +10,7 @@
 2. Starting;
    If, sadly, I cannot start at the moment you hire me, I will make sure to start the next day since the first minute my personal computer is up and running.
 3. Creation;
-   Depending on the complexity of the features you asked me to create, I make take a few time (maximum 1 day) or more time (1 or more days).
+   Depending on the complexity of the features you asked me to create, I may take a few time (maximum 1 day) or more time (1 or more days).
 4. Hosting & Payment; 
    After I have finished your bot, I will notify you instantly and wait for the payment to happen.
    When the payment is done, I will host your bot instantly on a VPS (Virtual Private Server).
