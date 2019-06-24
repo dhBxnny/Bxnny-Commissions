@@ -8,10 +8,12 @@ If you are interested in checking out my current orders list, you can see it her
   · Implement ``New Tweets`` announcements.
   
   · Implement a membercounter.
+
+  · Implement a ranking requests system.
   
   · More features still to be specified.
   
-  Total; Still awaiting owner's donation.
+  Total; Owner's donation completed.
   
   
 ~ **Unknown Bot Name**
@@ -49,6 +51,30 @@ If you are interested in checking out my current orders list, you can see it her
   · Group Shouts.
   
   · Whois & Groupinfo commands.
+
+  · Session Announcements 
+  
+  Total; 2.250 Robux.
+
+~ **Forever 21 Bot**
+
+  · Moderation commands.
+  
+  · Fun commands.
+
+  · Music system.
+  
+  · Verification system.
+
+  · Multi-Platforms announcements (Roblox & Discord). 
+  
+  · Group Shouts Logs.
+  
+  · Session Announcements.
+  
+  · Membercount Logs.
+  
+  · Social Media Logs (New Tweets).
   
   Total; 2.500 Robux.
 
