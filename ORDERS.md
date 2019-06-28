@@ -84,5 +84,5 @@ If you are interested in checking out my current orders list, you can see it her
   
   · Some more things but I forgot lol.
   
-  Total; 2.500 Robux.
+  Total; 3.000 Robux.
 
