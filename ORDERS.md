@@ -78,3 +78,11 @@ If you are interested in checking out my current orders list, you can see it her
   
   Total; 2.500 Robux.
 
+~ **Deviizer's Bot**
+
+  · Multi-Platforms announcements (Roblox & Discord). 
+  
+  · Some more things but I forgot lol.
+  
+  Total; 2.500 Robux.
+
