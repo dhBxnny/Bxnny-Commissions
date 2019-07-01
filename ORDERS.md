@@ -35,27 +35,8 @@ If you are interested in checking out my current orders list, you can see it her
   Total; 1.500 Robux.
   
 ~ **Octopuso's Assistant**
-
-  · Welcome messages.
+  Cancelled due to scam attempts.
   
-  · Announce command.
-  
-  · Verification system.
-
-  · Suggest command. 
-  
-  · ModMail.
-  
-  · Reply command for the ModMail.
-  
-  · Group Shouts.
-  
-  · Whois & Groupinfo commands.
-
-  · Session Announcements 
-  
-  Total; 2.250 Robux.
-
 ~ **Forever 21 Bot**
 
   · Moderation commands.
