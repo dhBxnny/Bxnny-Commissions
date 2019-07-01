@@ -1,6 +1,9 @@
 # Bot Programming Information
 This is a repository to show extended information about my bots programming services. 
 
+## Discord Server
+Interested in contacting me the fastest way? You should join my Discord Server [here!](https://discord.gg/YxmDQCy)
+
 ## Website
 You can check my personal website clicking [here](http://www.bxnny.orgfree.com)
 
