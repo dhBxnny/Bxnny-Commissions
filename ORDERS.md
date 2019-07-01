@@ -35,6 +35,7 @@ If you are interested in checking out my current orders list, you can see it her
   Total; 1.500 Robux.
   
 ~ **Octopuso's Assistant**
+
   Cancelled due to scam attempts.
   
 ~ **Forever 21 Bot**
