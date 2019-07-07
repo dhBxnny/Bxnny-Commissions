@@ -18,9 +18,11 @@ If you are interested in checking out my current orders list, you can see it her
   
 ~ **Unknown Bot Name**
   
-  · Promote & Demote commands.
+  ~~· Promote & Demote commands.~~
   
-  · MessageLR, MessageMR & MessageHR commands.
+  ~~· MessageLR, MessageMR & MessageHR commands.~~
+  
+  Bot stopped, awaiting final decision.
   
   Total; 1.700 Robux.
   
