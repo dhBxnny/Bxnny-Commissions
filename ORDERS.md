@@ -68,3 +68,8 @@ If you are interested in checking out my current orders list, you can see it her
   
   Total; 3.000 Robux.
 
+~ **Monarch Academy Bot**
+
+  · Cross-Platform Ban; Command is ran on Discord and user is banned on a Roblox game.
+  
+  Total; $10 USD (8,90 €)
