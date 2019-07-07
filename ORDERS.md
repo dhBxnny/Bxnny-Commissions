@@ -62,14 +62,18 @@ If you are interested in checking out my current orders list, you can see it her
 
 ~ **Deviizer's Bot**
 
-  · Multi-Platforms announcements (Roblox & Discord). 
+  ~~· Multi-Platforms announcements (Roblox & Discord).~~
   
-  · Some more things but I forgot lol.
+  ~~· Some more things but I forgot lol.~~
+  
+  Bot completed.
   
   Total; 3.000 Robux.
 
 ~ **Monarch Academy Bot**
 
-  · Cross-Platform Ban; Command is ran on Discord and user is banned on a Roblox game.
+  ~~· Cross-Platform Ban; Command is ran on Discord and user is banned on a Roblox game.~~
+  
+  Bot completed.
   
   Total; $10 USD (8,90 €)
